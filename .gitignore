@@ -1,0 +1,23 @@
+# VS / CMake build output
+/out/
+/.vs/
+/CMakeUserPresets.json
+*.user
+
+# binaries
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.idb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
